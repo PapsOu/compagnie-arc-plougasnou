@@ -1,4 +1,4 @@
-![Logo Compagnie d'arc de Plougasnou](./HS/logo-bleu-texte-blanc.png?raw=true "Logo")
+![Logo Compagnie d'arc de Plougasnou](./HD/logo-bleu-texte-blanc.png?raw=true "Logo")
 
 # Éléments visuels de la Compagnie d'arc de Plougasnou
 
